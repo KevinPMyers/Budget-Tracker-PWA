@@ -13,7 +13,7 @@ For this challenge we were given an application and asked to make it into a Prog
 * Service Workers
 
 ## Live URL
-* https://dashboard.heroku.com/apps/rocky-wildwood-87765
+* https://rocky-wildwood-87765.herokuapp.com/
 
 ## Author
 * Kevin Myers
